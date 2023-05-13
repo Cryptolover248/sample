@@ -138,6 +138,7 @@ p {
 .img-container {
   position: relative;
   width: 100%;
+  transform: scale(1.5);
 }
 
 .img-text {
@@ -241,3 +242,11 @@ p {
   z-index: 3;
 }
 
+img {
+  width: 100%; /* Make the image take up the full width of its container */
+  height: auto; /* Adjust the height according to the aspect ratio */
+}
+
+div:hover {
+  z-index: 3;
+}
