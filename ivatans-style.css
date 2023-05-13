@@ -156,7 +156,8 @@ p {
   visibility: hidden; /* Hide the text by default */
   bottom: 0;
   top: 50px;
-  left: 150px
+  left: 150px;
+  text-align: justify;
 }
 
 #second-text {
@@ -166,36 +167,42 @@ p {
   left: 0px;
   right: 50px;
   width: 50%;
+  text-align: justify;
 }
 
 #third-text {
   background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
+  text-align: justify;
 }
 
 #fourth-text {
   background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
+  text-align: justify;
 }
 
 #fifth-text {
   background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
+  text-align: justify;
 }
 
 #sixth-text {
   background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
+  text-align: justify;
 }
 
 #seventh-text {
   background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
+  text-align: justify;
 }
 
 /* show the text when hovered */
