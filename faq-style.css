@@ -124,6 +124,7 @@ body{
 
   .faq-question {
     font-size: 14px;
+     width: 80%;
   }
 
  .faq-answer {
