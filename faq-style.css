@@ -115,3 +115,13 @@ body{
     content: "\2796";
     /* Unicode character for "minus" sign (-) */
 }
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 14px;
+  }
+
+  .faq-answer {
+    width: 400px;
+  }
+}
