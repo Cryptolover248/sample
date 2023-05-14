@@ -162,7 +162,6 @@ p {
 }
 
 #second-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   bottom: 720px;
   left: 0px;
@@ -172,35 +171,33 @@ p {
 }
 
 #third-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
   text-align: justify;
 }
 
 #fourth-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
-  top: 0;
   text-align: justify;
+  bottom: 500px;
+  left: 100px;
 }
 
 #fifth-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
-  top: 0;
   text-align: justify;
+  bottom: 500px;
+  left: -250px;
 }
 
 #sixth-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
-  top: 0;
   text-align: justify;
+  bottom: 50%;
+  left: -200px;
 }
 
 #seventh-text {
-  background-color: rgba(0,0,0,0.5);
   visibility: hidden; /* Hide the text by default */
   top: 0;
   text-align: justify;
