@@ -52,7 +52,7 @@ body {
 	width: 100%;
 }
 
-a {
+div#mainwrapper a {
   overflow: hidden;
   display: block;
   padding: 1vh ;
