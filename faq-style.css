@@ -68,6 +68,7 @@ body{
     /* text-align: center; */
    width: 50%; 
    padding: auto;
+   justify-content: center;
    
 }
 
@@ -121,7 +122,11 @@ body{
     font-size: 14px;
   }
 
-  .faq-answer {
-    width: 400px;
+  .faq-question {
+    font-size: 10px;
+  }
+
+ .faq-answer {
+    width: 60%;
   }
 }
