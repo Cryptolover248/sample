@@ -124,10 +124,16 @@ body{
 
   .faq-question {
     font-size: 14px;
-     width: 80%;
+    width: 80%;
   }
 
  .faq-answer {
     width: 60%;
   }
+
+  .hr-line{
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+}
 }
