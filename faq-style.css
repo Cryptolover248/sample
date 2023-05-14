@@ -34,8 +34,7 @@ body{
 .faq-heading{
     border-bottom: #777;
     padding: 20px 60px;
-    color: #6EBB2D;
-    
+    color: #6EBB2D;   
 }
 .faq-container{
     display: flex;
@@ -120,10 +119,11 @@ body{
 @media screen and (max-width: 768px) {
   html {
     font-size: 14px;
+    overflow-x: hidden;
   }
 
   .faq-question {
-    font-size: 10px;
+    font-size: 14px;
   }
 
  .faq-answer {
